@@ -69,3 +69,8 @@ body {
 .nav-item:hover{
     background-color:cadetblue;
 }
+.bgcicd{
+    background-color:burlywood;
+    padding:10px;
+    text-align:center;
+}

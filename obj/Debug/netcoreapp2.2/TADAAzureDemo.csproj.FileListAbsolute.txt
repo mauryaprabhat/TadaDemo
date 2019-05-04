@@ -29,3 +29,4 @@ C:\Users\P819138\source\repos\TADAAzureDemo\TADAAzureDemo\obj\Debug\netcoreapp2.
 C:\Users\P819138\source\repos\TADAAzureDemo\TADAAzureDemo\obj\Debug\netcoreapp2.2\TADAAzureDemo.pdb
 C:\Users\P819138\source\repos\TADAAzureDemo\TADAAzureDemo\obj\Debug\netcoreapp2.2\TADAAzureDemo.csproj.CopyComplete
 C:\Users\P819138\source\repos\TADAAzureDemo\TADAAzureDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Prabhat.g.cshtml.cs
+C:\Users\P819138\source\repos\TADAAzureDemo\TADAAzureDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\AutoCICD.g.cshtml.cs
